@@ -1,1 +1,1 @@
-# Modeling-Purchase-Incidence-and-Price-Elasticity-of-Purchase-Probability-by-Logistic-Regression-
+# Modeling Purchase Incidence 
