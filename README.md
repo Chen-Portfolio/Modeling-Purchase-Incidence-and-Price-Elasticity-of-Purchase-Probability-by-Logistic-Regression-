@@ -43,3 +43,7 @@ The project has been divided into various steps which include:
 
 <a id='results'></a>
 ## Results
+
+The results have been clearly documented in the Jupyter Notebook. Please refer [Customer Segmentation Project Workbook.ipynb](Customer_Segmentation_Project_Workbook.ipynb) as well as the visualization result of the four customer segmentation showed as below:
+
+![](/images/Price_Elasticity_of_Purchase_Probability.png)
