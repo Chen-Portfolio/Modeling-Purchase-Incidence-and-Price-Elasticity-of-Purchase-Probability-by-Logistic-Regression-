@@ -45,4 +45,5 @@ The project has been divided into various steps which include:
 ## Results
 
 The results have been clearly documented in the Jupyter Notebook. Please refer [Modeling_Purchase_Incidence.ipynb](Modeling_Purchase_Incidence.ipynb) as well as the visualization result of the four customer segmentation showed as below:
+
 ![](/images/Price_Elasticity_of_Purchase_Probability.png)
